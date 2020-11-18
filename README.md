@@ -12,7 +12,7 @@
 [Spotify_Clone](https://spotify-clone-57660.web.app/)
 
 #### Github repo :
-[Github spotify clone]()
+[Github spotify clone](https://github.com/tejasmakadia30/Spotify-Clone)
 
 
 # Getting Started with Create React App
