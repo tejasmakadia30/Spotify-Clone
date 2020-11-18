@@ -1,3 +1,20 @@
+# Spotify Clone
+### Tools & Tech used:
+1. User Authentication
+2. Spotify API
+3. Flexbox (css)
+4. Material UI
+5. React Context API
+6. React Hooks
+7. Firebase ( Hosting )
+
+#### Checkout the Live demo : 
+[Spotify_Clone](https://spotify-clone-57660.web.app/)
+
+#### Github repo :
+[Github spotify clone]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Spotify-Clone
