@@ -8,7 +8,10 @@
 6. React Hooks
 7. Firebase ( Hosting )
 
-#### Checkout the Live demo : 
+#### Screenshot:
+![abc](https://photos.google.com/photo/AF1QipNpML8laOJw5kCtUYHAddvWFpZzivriGuL9QzB2)
+
+#### Checkout the Live demo (demo will not work due to some reason): 
 [Spotify_Clone](https://spotify-clone-57660.web.app/)
 
 #### Github repo :
