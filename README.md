@@ -9,7 +9,7 @@
 7. Firebase ( Hosting )
 
 #### Screenshot:
-![abc](https://photos.google.com/photo/AF1QipNpML8laOJw5kCtUYHAddvWFpZzivriGuL9QzB2)
+![abc](Capture.JPG)
 
 #### Checkout the Live demo (demo will not work due to some reason): 
 [Spotify_Clone](https://spotify-clone-57660.web.app/)
